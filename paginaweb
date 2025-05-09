@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mi Experiencia creando una página web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px 0;
+        }
+        h1 {
+            margin: 0;
+        }
+        section {
+            margin-top: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding: 10px;
+            background-color: #ddd;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mi experiencia creando una página web</h1>
+    </header>
+
+    <section>
+        <h2>¿Por qué decidí hacer esta página?</h2>
+        <p>Quería aprender cómo se hace una página web y compartir mi proceso con otros. Fue una experiencia divertida y educativa.</p>
+    </section>
+
+    <section>
+        <h2>Lo que aprendí</h2>
+        <p>Aprendí a usar HTML para estructurar la página, a poner estilos con CSS y a agregar contenido interesante. También descubrí lo importante que es planificar antes de empezar.</p>
+    </section>
+
+    <section>
+        <h2>Desafíos que enfrenté</h2>
+        <p>Al principio, fue difícil entender cómo funciona el código, pero con paciencia y práctica, logré avanzar y mejorar mi página.</p>
+    </section>
+
+    <footer>
+        <p>¡Gracias por visitar mi página!</p>
+    </footer>
+</body>
+</html>
